@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1778472299620",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": null,
+    "action": "enter_gallery",
+    "timestamp": "2026-05-11T04:04:59.620Z"
+  },
+  {
+    "id": "1778472308527",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": "exhibit1",
+    "action": "view_exhibit",
+    "timestamp": "2026-05-11T04:05:08.527Z"
+  },
+  {
+    "id": "1778473130258",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": null,
+    "action": "enter_gallery",
+    "timestamp": "2026-05-11T04:18:50.258Z"
+  },
+  {
+    "id": "1778473135250",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": "exhibit1",
+    "action": "view_exhibit",
+    "timestamp": "2026-05-11T04:18:55.250Z"
+  },
+  {
+    "id": "1778473260206",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": null,
+    "action": "enter_gallery",
+    "timestamp": "2026-05-11T04:21:00.206Z"
+  },
+  {
+    "id": "1778473269845",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": "exhibit1",
+    "action": "view_exhibit",
+    "timestamp": "2026-05-11T04:21:09.845Z"
+  },
+  {
+    "id": "1778473409030",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": null,
+    "action": "enter_gallery",
+    "timestamp": "2026-05-11T04:23:29.030Z"
+  },
+  {
+    "id": "1778473417880",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": "exhibit1",
+    "action": "view_exhibit",
+    "timestamp": "2026-05-11T04:23:37.880Z"
+  },
+  {
+    "id": "1778473485784",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": null,
+    "action": "enter_gallery",
+    "timestamp": "2026-05-11T04:24:45.784Z"
+  },
+  {
+    "id": "1778473491892",
+    "userId": "user_mp0ohg9rjmx1qq9c6k",
+    "galleryId": "gallery1",
+    "exhibitId": "exhibit1",
+    "action": "view_exhibit",
+    "timestamp": "2026-05-11T04:24:51.892Z"
+  }
+]

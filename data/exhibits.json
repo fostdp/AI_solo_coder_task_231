@@ -1,0 +1,262 @@
+{
+  "galleries": [
+    {
+      "id": "gallery1",
+      "name": {
+        "zh": "古代中国展厅",
+        "en": "Ancient China Gallery",
+        "ja": "古代中国展示室"
+      },
+      "description": {
+        "zh": "探索中华文明五千年的辉煌历史",
+        "en": "Explore 5,000 years of Chinese civilization",
+        "ja": "中華文明5000年の輝かしい歴史を探る"
+      },
+      "mapPosition": { "x": 15, "y": 30 }
+    },
+    {
+      "id": "gallery2",
+      "name": {
+        "zh": "文艺复兴展厅",
+        "en": "Renaissance Gallery",
+        "ja": "ルネサンス展示室"
+      },
+      "description": {
+        "zh": "领略欧洲文艺复兴时期的艺术杰作",
+        "en": "Experience European Renaissance masterpieces",
+        "ja": "ヨーロッパルネサンス期の芸術傑作を体験"
+      },
+      "mapPosition": { "x": 55, "y": 30 }
+    },
+    {
+      "id": "gallery3",
+      "name": {
+        "zh": "现代艺术展厅",
+        "en": "Modern Art Gallery",
+        "ja": "現代美術展示室"
+      },
+      "description": {
+        "zh": "感受当代艺术的创新与突破",
+        "en": "Feel the innovation and breakthrough of contemporary art",
+        "ja": "現代美術の革新と突破を感じる"
+      },
+      "mapPosition": { "x": 15, "y": 60 }
+    },
+    {
+      "id": "gallery4",
+      "name": {
+        "zh": "古埃及展厅",
+        "en": "Ancient Egypt Gallery",
+        "ja": "古代エジプト展示室"
+      },
+      "description": {
+        "zh": "揭开古埃及文明的神秘面纱",
+        "en": "Unveil the mysteries of ancient Egyptian civilization",
+        "ja": "古代エジプト文明の神秘のベールを剥ぐ"
+      },
+      "mapPosition": { "x": 55, "y": 60 }
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "exhibit1",
+      "galleryId": "gallery1",
+      "name": {
+        "zh": "青铜器-司母戊鼎",
+        "en": "Bronze Vessel - Simuwu Ding",
+        "ja": "青銅器-司母戊鼎"
+      },
+      "description": {
+        "zh": "这是商代晚期的青铜重器，重达832.84公斤，是目前发现的最大、最重的青铜礼器。鼎身四周铸有精巧的盘龙纹和饕餮纹，展现了商代青铜器铸造的高超技艺。",
+        "en": "This is a late Shang Dynasty bronze vessel weighing 832.84 kg, the largest and heaviest bronze ritual vessel ever discovered. Its body features intricate dragon patterns and taotie motifs, demonstrating the superb craftsmanship of Shang Dynasty bronze casting.",
+        "ja": "これは商代後期の青銅器で、重量は832.84キログラムに達し、現在発見されている最大かつ最重の青銅礼器です。鼎の周囲には精巧な龍紋と饕餮紋が鋳造されており、商代青銅器鋳造の高超な技術を示しています。"
+      },
+      "audioText": {
+        "zh": "欢迎参观司母戊鼎。这是中国商代晚期的青铜重器，重达832.84公斤，是目前世界上发现的最大、最重的青铜礼器。鼎身四周铸有精巧的盘龙纹和饕餮纹，工艺精湛，象征着商代王室的威严与权力。",
+        "en": "Welcome to the Simuwu Ding. This is a late Shang Dynasty bronze vessel from China, weighing 832.84 kg, the largest and heaviest bronze ritual vessel ever discovered in the world. Its body features intricate dragon patterns and taotie motifs, demonstrating superb craftsmanship and symbolizing the majesty and power of the Shang Dynasty royal family.",
+        "ja": "司母戊鼎へようこそ。これは中国商代後期の青銅器で、重量は832.84キログラムに達し、現在世界で発見されている最大かつ最重の青銅礼器です。鼎の周囲には精巧な龍紋と饕餮紋が鋳造されており、技術は完璧で、商代王室の威厳と権力を象徴しています。"
+      },
+      "year": {
+        "zh": "商代晚期（约公元前1300-1046年）",
+        "en": "Late Shang Dynasty (c. 1300-1046 BC)",
+        "ja": "商代後期（紀元前1300-1046年頃）"
+      },
+      "mapPosition": { "x": 20, "y": 35 }
+    },
+    {
+      "id": "exhibit2",
+      "galleryId": "gallery1",
+      "name": {
+        "zh": "书法作品-兰亭序",
+        "en": "Calligraphy - Lanting Xu",
+        "ja": "書道作品-蘭亭序"
+      },
+      "description": {
+        "zh": "被誉为天下第一行书的王羲之代表作。这篇序文写于东晋永和九年，记述了兰亭雅集的盛况。全文28行，324字，笔法精妙，气韵生动。",
+        "en": "Wang Xizhi's masterpiece, known as the 'Best Running Script Under Heaven'. Written in the 9th year of Yonghe in the Eastern Jin Dynasty, it records the grand gathering at Lanting Pavilion. The full text has 28 lines and 324 characters, with exquisite brushwork and vivid spirit.",
+        "ja": "天下第一の行書と称される王羲之の代表作。東晋永和9年に書かれ、蘭亭での雅集の盛況を記述しています。全文28行、324文字で、筆法は精妙で気韻は生き生きとしています。"
+      },
+      "audioText": {
+        "zh": "现在您看到的是王羲之的兰亭序，被誉为天下第一行书。这篇序文写于公元353年，记述了王羲之与友人在兰亭雅集的盛况。王羲之的书法笔法精妙，气韵生动，对后世书法影响深远。",
+        "en": "Now you are looking at Wang Xizhi's Lanting Xu, known as the Best Running Script Under Heaven. Written in 353 AD, it records the grand gathering of Wang Xizhi and his friends at Lanting Pavilion. Wang Xizhi's calligraphy features exquisite brushwork and vivid spirit, having a profound influence on later generations of calligraphy.",
+        "ja": "今、ご覧になっているのは王羲之の蘭亭序で、天下第一の行書と称されています。この序文は西暦353年に書かれ、王羲之と友人たちが蘭亭で雅集を開いた盛況を記述しています。王羲之の書道は筆法が精妙で気韻が生き生きとしており、後世の書道に深い影響を与えています。"
+      },
+      "year": {
+        "zh": "东晋永和九年（公元353年）",
+        "en": "Eastern Jin Dynasty, 9th year of Yonghe (353 AD)",
+        "ja": "東晋永和9年（西暦353年）"
+      },
+      "mapPosition": { "x": 35, "y": 40 }
+    },
+    {
+      "id": "exhibit3",
+      "galleryId": "gallery2",
+      "name": {
+        "zh": "油画-蒙娜丽莎复制品",
+        "en": "Oil Painting - Mona Lisa (Replica)",
+        "ja": "油絵-モナリザ（複製）"
+      },
+      "description": {
+        "zh": "这是达芬奇最著名的作品蒙娜丽莎的精美复制品。原作创作于1503-1519年，以其神秘的微笑和精湛的晕涂法闻名于世。画中人物的表情微妙，背景山水幽深，展现了文艺复兴时期艺术的巅峰。",
+        "en": "This is an exquisite replica of Da Vinci's most famous work, the Mona Lisa. The original was created between 1503-1519, famous for its mysterious smile and superb sfumato technique. The figure's subtle expression and the deep landscape background represent the pinnacle of Renaissance art.",
+        "ja": "これはダ・ヴィンチの最も有名な作品、モナリザの精巧な複製品です。原作は1503-1519年に制作され、神秘的な微笑みと高超なスフマート技法で世界的に有名です。描かれた人物の微妙な表情と奥深い風景の背景は、ルネサンス期芸術の頂点を示しています。"
+      },
+      "audioText": {
+        "zh": "您现在看到的是达芬奇的蒙娜丽莎复制品。原作创作于1503到1519年之间，是文艺复兴时期最著名的作品之一。这幅画以其神秘的微笑而闻名，达芬奇运用了精湛的晕涂法，使画面过渡自然，层次丰富。",
+        "en": "You are now looking at a replica of Da Vinci's Mona Lisa. The original was created between 1503 and 1519, and is one of the most famous works of the Renaissance. This painting is famous for its mysterious smile, and Da Vinci used the superb sfumato technique to create natural transitions and rich layers in the image.",
+        "ja": "今、ご覧になっているのはダ・ヴィンチのモナリザの複製品です。原作は1503年から1519年の間に制作され、ルネサンス期の最も有名な作品の一つです。この絵は神秘的な微笑みで有名で、ダ・ヴィンチは高超なスフマート技法を用いて、画面の移り変わりを自然にし、層を豊かにしています。"
+      },
+      "year": {
+        "zh": "约1503-1519年（原作）",
+        "en": "c. 1503-1519 (Original)",
+        "ja": "約1503-1519年（原作）"
+      },
+      "mapPosition": { "x": 60, "y": 35 }
+    },
+    {
+      "id": "exhibit4",
+      "galleryId": "gallery2",
+      "name": {
+        "zh": "雕塑-大卫雕像复制品",
+        "en": "Sculpture - David (Replica)",
+        "ja": "彫刻-ダビデ像（複製）"
+      },
+      "description": {
+        "zh": "这是米开朗基罗创作的大卫雕像的精美复制品。原作高达5.17米，创作于1501-1504年，是文艺复兴时期雕塑的巅峰之作。雕像展现了大卫准备与歌利亚战斗的紧张时刻，人体比例完美，肌肉线条流畅。",
+        "en": "This is an exquisite replica of Michelangelo's David. The original stands 5.17 meters tall, created between 1501-1504, and is the pinnacle of Renaissance sculpture. The statue depicts David in the tense moment before battling Goliath, with perfect human proportions and flowing muscle lines.",
+        "ja": "これはミケランジェロが制作したダビデ像の精巧な複製品です。原作は高さ5.17メートルで、1501-1504年に制作され、ルネサンス期彫刻の頂点です。像はダビデがゴリアテと戦う直前の緊迫した瞬間を描いており、人体の比率は完璧で、筋肉のラインは流れるようになっています。"
+      },
+      "audioText": {
+        "zh": "现在为您介绍米开朗基罗的大卫雕像。这尊雕像高5.17米，创作于1501到1504年之间。大卫展现了与歌利亚战斗前的紧张时刻，身体微微侧转，目光坚定地注视着远方，姿态优雅而充满力量。",
+        "en": "Now introducing Michelangelo's David statue. This statue stands 5.17 meters tall and was created between 1501 and 1504. David is depicted in the tense moment before battling Goliath, with his body slightly turned, gaze firmly fixed in the distance, in an elegant yet powerful pose.",
+        "ja": "今、ミケランジェロのダビデ像をご紹介します。この像は高さ5.17メートルで、1501年から1504年の間に制作されました。ダビデはゴリアテと戦う直前の緊迫した瞬間を描いており、体はわずかに横を向き、視線は遠方をしっかりと見つめ、姿勢は優雅でありながら力強さに満ちています。"
+      },
+      "year": {
+        "zh": "1501-1504年（原作）",
+        "en": "1501-1504 (Original)",
+        "ja": "1501-1504年（原作）"
+      },
+      "mapPosition": { "x": 75, "y": 40 }
+    },
+    {
+      "id": "exhibit5",
+      "galleryId": "gallery3",
+      "name": {
+        "zh": "抽象画-星空变体",
+        "en": "Abstract Painting - Starry Night Variation",
+        "ja": "抽象画-星空の変奏"
+      },
+      "description": {
+        "zh": "这是一幅受梵高星空启发的现代抽象作品。画家运用大胆的色彩和流动的笔触，描绘了夜空中旋转的星云和闪烁的星辰。作品融合了后印象派的情感表达与当代抽象艺术的自由形式。",
+        "en": "This is a modern abstract work inspired by Van Gogh's Starry Night. The artist uses bold colors and flowing brushstrokes to depict swirling nebulae and twinkling stars in the night sky. The work blends Post-Impressionist emotional expression with the free forms of contemporary abstract art.",
+        "ja": "これはゴッホの『星月夜』に触発された現代抽象作品です。画家は大胆な色彩と流れるような筆触を用いて、夜空に渦巻く星雲と瞬く星々を描いています。この作品はポスト印象派の情感表現と現代抽象美術の自由な形式を融合しています。"
+      },
+      "audioText": {
+        "zh": "您现在看到的是一幅现代抽象作品，灵感来源于梵高的星空。画家用大胆的色彩和流动的笔触，创造出旋转的星云和闪烁的星辰。作品展现了当代艺术家对经典作品的重新诠释。",
+        "en": "You are now looking at a modern abstract work inspired by Van Gogh's Starry Night. The artist uses bold colors and flowing brushstrokes to create swirling nebulae and twinkling stars. The work showcases a contemporary artist's reinterpretation of a classic masterpiece.",
+        "ja": "今、ご覧になっているのはゴッホの『星月夜』に触発された現代抽象作品です。画家は大胆な色彩と流れるような筆触を用いて、渦巻く星雲と瞬く星々を創り出しています。この作品は現代芸術家による古典作品の再解釈を示しています。"
+      },
+      "year": {
+        "zh": "2020年",
+        "en": "2020",
+        "ja": "2020年"
+      },
+      "mapPosition": { "x": 20, "y": 65 }
+    },
+    {
+      "id": "exhibit6",
+      "galleryId": "gallery3",
+      "name": {
+        "zh": "装置艺术-光与影",
+        "en": "Installation Art - Light and Shadow",
+        "ja": "インスタレーションアート-光と影"
+      },
+      "description": {
+        "zh": "这是一个互动式光影装置艺术作品。艺术家运用精密的光线投射和悬挂的几何形体，创造出不断变化的光影效果。观众在空间中移动时，影子的形态也随之变化，邀请观众参与作品的创造。",
+        "en": "This is an interactive light and shadow installation art piece. The artist uses precise light projections and suspended geometric forms to create ever-changing light and shadow effects. As viewers move through the space, the shape of the shadows changes, inviting the audience to participate in the creation of the work.",
+        "ja": "これはインタラクティブな光と影のインスタレーションアート作品です。芸術家は精密な光の投影と吊り下げられた幾何学的形体を用いて、絶えず変化する光と影の効果を創り出しています。鑑賞者が空間を移動すると、影の形も変化し、観客が作品の創造に参加することを招いています。"
+      },
+      "audioText": {
+        "zh": "欢迎体验光与影装置艺术。这件作品通过精密的光线投射和悬挂的几何形体，创造出不断变化的光影效果。您可以在空间中自由移动，观察影子形态的变化，成为作品的一部分。",
+        "en": "Welcome to experience the Light and Shadow installation art. This work creates ever-changing light and shadow effects through precise light projections and suspended geometric forms. You can move freely through the space, observe the changing shapes of the shadows, and become part of the artwork.",
+        "ja": "光と影のインスタレーションアートを体験してください。この作品は精密な光の投影と吊り下げられた幾何学的形体を通じて、絶えず変化する光と影の効果を創り出しています。空間を自由に移動し、影の形の変化を観察し、作品の一部になってください。"
+      },
+      "year": {
+        "zh": "2023年",
+        "en": "2023",
+        "ja": "2023年"
+      },
+      "mapPosition": { "x": 35, "y": 70 }
+    },
+    {
+      "id": "exhibit7",
+      "galleryId": "gallery4",
+      "name": {
+        "zh": "图坦卡蒙黄金面具复制品",
+        "en": "Tutankhamun's Gold Mask (Replica)",
+        "ja": "ツタンカーメンの黄金仮面（複製）"
+      },
+      "description": {
+        "zh": "这是埃及法老图坦卡蒙黄金面具的精美复制品。原作用纯金打造，重达11公斤，镶嵌着青金石和彩色玻璃，是古埃及艺术的巅峰之作。面具展现了年轻法老的理想化面容，象征着永恒与不朽。",
+        "en": "This is an exquisite replica of Egyptian Pharaoh Tutankhamun's gold mask. The original was made of pure gold, weighing 11 kg, inlaid with lapis lazuli and colored glass, representing the pinnacle of ancient Egyptian art. The mask depicts the idealized face of the young pharaoh, symbolizing eternity and immortality.",
+        "ja": "これはエジプトのファラオ、ツタンカーメンの黄金仮面の精巧な複製品です。原作は純金で作られ、重さは11キログラムに達し、ラピスラズリと色ガラスが象眼されており、古代エジプト美術の頂点を示しています。仮面は若いファラオの理想化された顔を描いており、永遠と不滅を象徴しています。"
+      },
+      "audioText": {
+        "zh": "现在为您介绍图坦卡蒙的黄金面具。这个面具原作用纯金打造，重达11公斤，镶嵌着青金石和彩色玻璃。面具上的铭文是保护法老的咒语，确保他在来世获得永生。",
+        "en": "Now introducing Tutankhamun's gold mask. The original mask was made of pure gold, weighing 11 kg, inlaid with lapis lazuli and colored glass. The inscriptions on the mask are protective spells for the pharaoh, ensuring his eternal life in the afterworld.",
+        "ja": "今、ツタンカーメンの黄金仮面をご紹介します。この仮面の原作は純金で作られ、重さは11キログラムに達し、ラピスラズリと色ガラスが象眼されています。仮面の碑文はファラオを守る呪文であり、彼が来世で永遠の命を得ることを保証しています。"
+      },
+      "year": {
+        "zh": "约公元前1323年（原作）",
+        "en": "c. 1323 BC (Original)",
+        "ja": "紀元前1323年頃（原作）"
+      },
+      "mapPosition": { "x": 60, "y": 65 }
+    },
+    {
+      "id": "exhibit8",
+      "galleryId": "gallery4",
+      "name": {
+        "zh": "罗塞塔石碑复制品",
+        "en": "Rosetta Stone (Replica)",
+        "ja": "ロゼッタストーン（複製）"
+      },
+      "description": {
+        "zh": "这是罗塞塔石碑的精美复制品。原碑刻于公元前196年，用三种文字（古埃及象形文、世俗体和古希腊文）刻写了同样的内容。这块石碑成为解读古埃及象形文字的关键，开启了现代埃及学的大门。",
+        "en": "This is an exquisite replica of the Rosetta Stone. The original stone was inscribed in 196 BC with the same text in three scripts: ancient Egyptian hieroglyphs, Demotic, and ancient Greek. This stone became the key to deciphering ancient Egyptian hieroglyphs, opening the door to modern Egyptology.",
+        "ja": "これはロゼッタストーンの精巧な複製品です。原碑は紀元前196年に刻まれ、同じ内容が3つの文字（古代エジプト象形文字、デモティック文字、古代ギリシャ文字）で刻まれています。この石碑は古代エジプト象形文字を解読する鍵となり、現代エジプト学の扉を開きました。"
+      },
+      "audioText": {
+        "zh": "您现在看到的是罗塞塔石碑复制品。这块石碑刻于公元前196年，用三种文字记录了同样的内容。正是因为有了古希腊文的对照，学者们才成功解读了古埃及象形文字，这对埃及学研究具有划时代的意义。",
+        "en": "You are now looking at a replica of the Rosetta Stone. This stone was inscribed in 196 BC with the same content recorded in three scripts. It was precisely because of the ancient Greek text as a reference that scholars successfully deciphered ancient Egyptian hieroglyphs, which has epoch-making significance for Egyptology research.",
+        "ja": "今、ご覧になっているのはロゼッタストーンの複製品です。この石碑は紀元前196年に刻まれ、同じ内容が3つの文字で記録されています。古代ギリシャ語の対訳があったからこそ、学者たちは古代エジプト象形文字の解読に成功し、これはエジプト学研究にとって画期的な意義を持っています。"
+      },
+      "year": {
+        "zh": "公元前196年（原作）",
+        "en": "196 BC (Original)",
+        "ja": "紀元前196年（原作）"
+      },
+      "mapPosition": { "x": 75, "y": 70 }
+    }
+  ]
+}

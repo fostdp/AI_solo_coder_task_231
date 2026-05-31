@@ -1,0 +1,23 @@
+{
+  "name": "museum-audio-guide",
+  "version": "1.0.0",
+  "description": "博物馆藏品语音导览网页应用",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --config jest.config.cjs",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch --config jest.config.cjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1778467115647",
+    "timestamp": "2026-05-11T02:38:35.647Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778467131165",
+    "timestamp": "2026-05-11T02:38:51.165Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778467165215",
+    "timestamp": "2026-05-11T02:39:25.215Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "en",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778467173707",
+    "timestamp": "2026-05-11T02:39:33.707Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "en",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778467195110",
+    "timestamp": "2026-05-11T02:39:55.110Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "back_to_galleries",
+    "language": "en",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472041898",
+    "timestamp": "2026-05-11T04:00:41.898Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472053574",
+    "timestamp": "2026-05-11T04:00:53.574Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472063335",
+    "timestamp": "2026-05-11T04:01:03.335Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472067971",
+    "timestamp": "2026-05-11T04:01:07.971Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472293570",
+    "timestamp": "2026-05-11T04:04:53.570Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472299617",
+    "timestamp": "2026-05-11T04:04:59.617Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778472308521",
+    "timestamp": "2026-05-11T04:05:08.521Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473109010",
+    "timestamp": "2026-05-11T04:18:29.010Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473130254",
+    "timestamp": "2026-05-11T04:18:50.254Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473135248",
+    "timestamp": "2026-05-11T04:18:55.248Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473252685",
+    "timestamp": "2026-05-11T04:20:52.685Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473260201",
+    "timestamp": "2026-05-11T04:21:00.201Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473269837",
+    "timestamp": "2026-05-11T04:21:09.837Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473400233",
+    "timestamp": "2026-05-11T04:23:20.233Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473409026",
+    "timestamp": "2026-05-11T04:23:29.026Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473417873",
+    "timestamp": "2026-05-11T04:23:37.873Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473473215",
+    "timestamp": "2026-05-11T04:24:33.215Z",
+    "exhibitId": null,
+    "galleryId": null,
+    "action": "app_start",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473485781",
+    "timestamp": "2026-05-11T04:24:45.782Z",
+    "exhibitId": null,
+    "galleryId": "gallery1",
+    "action": "enter_gallery",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  },
+  {
+    "id": "1778473491887",
+    "timestamp": "2026-05-11T04:24:51.887Z",
+    "exhibitId": "exhibit1",
+    "galleryId": "gallery1",
+    "action": "view_exhibit",
+    "language": "zh",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.107.1 Chrome/142.0.7444.235 Electron/39.2.7 Safari/537.36",
+    "ip": "::1"
+  }
+]
